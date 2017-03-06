@@ -6,6 +6,5 @@
 	alahu akbar
 	alahu akbar
 	 sfdjfbsd 
-	 fsdkhfkjsdhfjk
-	 fjsdkhfjkshd
+	
 	 
