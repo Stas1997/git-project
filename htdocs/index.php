@@ -7,3 +7,5 @@ echo "Hello new branch";
 =======
 echo "branch master";
 >>>>>>> master
+ echo "Hans kom her ein";
+echo "mazafaker";
